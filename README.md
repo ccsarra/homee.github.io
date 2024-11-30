@@ -14,6 +14,7 @@
 <a href="reflection.html">
 <p><u> reflection! </p></a>
 </body>
+</html>
 <style>
 body {
 	 background-image: url("grid.jpg");
@@ -45,4 +46,4 @@ p {
 	font-family: hug me tight;
 }
 </style>
-</html>
+
